@@ -11,7 +11,6 @@ print("4. Division")
 
 choice = input("Enter your choice (1-4): ")
 
-
 if choice == '1':
     result = calculator.add(num1, num2)
     print("Addition:", result)
