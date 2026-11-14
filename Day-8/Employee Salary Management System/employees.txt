@@ -1,0 +1,5 @@
+Ramesh 25000
+Sita 30000
+Arun 28000
+Sathvik 80000
+Raviteja 68500
