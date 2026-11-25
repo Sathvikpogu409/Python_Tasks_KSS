@@ -1,0 +1,6 @@
+Student Results
+Rahul: 75
+Amit: 45
+Priya: 85
+Sneha: 60
+Average Marks: 66.25
